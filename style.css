@@ -1,0 +1,27 @@
+body{
+background-size: cover;
+
+}
+
+.heading{
+font-size: 21px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+.footer{
+background-color: aqua;
+color: rgb(59, 59, 0);
+text-align: center;
+bottom: 0;
+width: 100%;
+line-height: 3;
+position: fixed;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+
+}
